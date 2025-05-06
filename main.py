@@ -34,4 +34,15 @@ elif choice == '4':
     print("نتیجه: ", divide(num1, num2))
 else:
     print("انتخاب نامعتبر است  ")
+
+if choice == '1':
+    print("نتیجه: ", add(num1, num2))
+elif choice == '2':
+    print("نتیجه: ", subtract(num1, num2))
+elif choice == '3':
+    print("نتیجه: ", multiply(num1, num2))
+elif choice == '4':
+    print("نتیجه: ", divide(num1, num2))
+else:
+    print("انتخاب نامعتبر است  ")
   
