@@ -33,5 +33,5 @@ elif choice == '3':
 elif choice == '4':
     print("نتیجه: ", divide(num1, num2))
 else:
-    print("انتخاب نامعتبر ")
+    print("انتخاب نامعتبر است  ")
   
